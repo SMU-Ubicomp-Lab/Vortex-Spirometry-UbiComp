@@ -6,4 +6,4 @@ We aren't ready to release all of the data and truly open source the project but
 
 
 
-When we are able to, we will upload the source code for the iOS coaching app, the anonymized human subjects trial data, the data from the Pulmonary Waveform Generator, and the .STL files for the whistle itself.
+When we're able to, we will upload the source code for the iOS coaching app, the anonymized human subjects trial data, the data from the Pulmonary Waveform Generator, and the .STL files for the whistle itself.
